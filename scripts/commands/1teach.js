@@ -21,7 +21,7 @@ module.exports.run = async ({ api, event, args }) => {
         const text2 = text.split(" => ").pop();
 
         if (!text1 || !text2) {
-            return api.sendMessage(`Usage: ${global.config.PREFIX}teach who is x2? => x2 is hamim`, event.threadID, event.messageID);
+            return api.sendMessage(`Usage: ${global.config.PREFIX}teach who is Jay? => My owner`, event.threadID, event.messageID);
         }
 
         const response = await axios.get(`https://052ffdc5-d547-47f5-b9d3-a96a656bbaa1-00-3s1trre0zg6jq.sisko.replit.dev//sim?type=teach&ask=${encodeURIComponent(text1)}&ans=${encodeURIComponent(text2)}`);
