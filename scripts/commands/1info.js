@@ -43,19 +43,19 @@ var link = [
 
 var callback = () => api.sendMessage({body:` ═════════════🄾🅆🄽🄴🅁════════════
 
-♻️OWNER : HAMIM AHMADX 
+♻️OWNER : JAY D BOHOL  
 
 👤GENDER : MALE
 
-🔰AGE : 17
+🔰AGE : 15
 
-🔰ADDRESS: CHATTOGRAM, BANGLADESH
+🔰ADDRESS: CEBU LAPU LAPU CITY SUDTONGGAN, PHILIPPINES
 
 ═══════════🄲🄾🄽🅃🄰🄲🅃════════════
 
 USE [ /admin ] FOR CONTACT
 
-🔰WEBSITE: https://hamim-website.h4m1mx2.repl.co/
+🔰WEBSITE: https//:pornhub.com
 
 USE [ /admin ] FOR CONTACT
 
@@ -65,7 +65,7 @@ TODAY IS TIME : ${juswa}
 
 BOT IS RUNNING ${hours}:${minutes}:${seconds}.
 
-BOT NAME : X2 BOT 🤙
+BOT NAME : Test BOT 🤙
 
 BOT PREFIX : 💠 ${global.config.PREFIX} 💠
 
